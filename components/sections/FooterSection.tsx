@@ -142,7 +142,7 @@ export default function Footer() {
                     <Code className="w-7 h-7 text-white" />
                   </div>
                   <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 bg-clip-text text-transparent">
-                    WebCraft
+                  Pmnwebsolutions
                   </span>
                 </div>
 
@@ -279,7 +279,7 @@ export default function Footer() {
               viewport={{ once: true }}
               className="flex items-center gap-2 text-gray-400 text-sm"
             >
-              <span>© {currentYear} WebCraft. Made with</span>
+              <span>© {currentYear} Pmnwebsolutions. Made with</span>
               <Heart className="w-4 h-4 text-red-400 fill-current" />
               <span>by our global team.</span>
             </motion.div>
